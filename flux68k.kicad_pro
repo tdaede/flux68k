@@ -57,7 +57,8 @@
         }
       ],
       "drc_exclusions": [
-        "silk_over_copper|104000000|28000000|d9e656bb-bcf8-48f3-956c-b572ff9d54a5|d5676953-4b78-48c3-9b71-cefeb3c765f9"
+        "silk_edge_clearance|104000000|21000000|4a370ad4-ff8f-454b-9cae-3f2552b2ab6e|d9e656bb-bcf8-48f3-956c-b572ff9d54a5",
+        "silk_over_copper|104000000|28865086|d9e656bb-bcf8-48f3-956c-b572ff9d54a5|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
